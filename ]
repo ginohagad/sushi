@@ -83,32 +83,19 @@ nav {
   /* background-color: var(--bg); */
   background-color: yellow;
   padding: 30px 20px;
-  display: block;
 }
 
 #food .cards {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 10px;
-  margin: 0 auto;
+  display: block;
 }
 
 #food .card {
-  background-color: #fff;
-  padding: 10px 20px 20px;
-  border: 1px solid #000;
-  border-radius: 25px;
-  display: block;
-  text-align: center;
+  margin: 0 auto; 
+  align-self: center;
 }
 
 #food .card img {
-  width: 150px;
-}
-
-.food-text {
-  width: 100%;
-  margin: 0 auto;
+  width: 300px;
 }
 
 
