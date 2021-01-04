@@ -80,8 +80,7 @@ nav {
 }
 
 #food {
-  /* background-color: var(--bg); */
-  background-color: yellow;
+  background-color: var(--bg);
   padding: 30px 20px;
   display: block;
 }
@@ -109,6 +108,15 @@ nav {
 .food-text {
   width: 100%;
   margin: 0 auto;
+}
+
+.food-text p {
+  font-size: 0.75em; 
+}
+
+#showcase {
+  padding: 30px 20px;
+  display: block;
 }
 
 
