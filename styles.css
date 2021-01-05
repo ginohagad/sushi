@@ -114,6 +114,10 @@ nav {
   font-size: 0.75em; 
 }
 
+.food-text h2 {
+  font-size: 1em; 
+}
+
 #showcase {
   padding: 30px 20px;
   display: block;
